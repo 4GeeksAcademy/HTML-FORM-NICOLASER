@@ -1,0 +1,120 @@
+#B1 {
+    display: flexbox;
+    margin: auto;
+    width: 80%;
+    min-width: 400px;
+    border: 1px solid grey;
+    
+}
+
+#ab1 {
+   
+}
+
+#ttl {
+    background-color: rgb(248, 134, 134);
+    color: rgb(121, 0, 0);
+    margin: auto;
+    margin-bottom: 10px;
+    width: 100%;
+    height: 50px;
+    
+}
+
+#bt2 {
+    background-color: rgb(67, 86, 190);
+    text-align: center;
+    border-radius: 10%;
+    color: white;
+    margin: 12px;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    float: right;
+    margin-left: 5px;
+    
+}
+
+#bt1 {
+    background-color: grey;
+    color: white;
+    border-radius: 10%;
+    text-align: center;
+    float: right;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    margin: 12px;
+    margin-right: 0px;
+}
+
+#bg {
+    background-color: rgb(172, 172, 172);
+    border-radius: 5%;
+    width: 40%;
+    height: 35px;
+    
+}
+
+fieldset {
+	border: none ;
+	
+	font-weight: 800;
+}
+
+#a1 {
+    width: 50%;
+}
+
+#a2 {
+    margin: auto;
+    width: 50%;
+}
+
+.mensaje {
+    margin-top: 0.5%;
+    height: 3rem;
+    padding-bottom: 0%;
+}
+
+#H {
+    background-color: lightgrey;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 100%;
+    height: 70px;
+}
+
+#btbg {
+    background-color: lightgrey;
+    height: 50px;
+    width: auto;
+    
+}
+
+.threebars {
+    width: 70%;
+}
+
+#note {
+    color: grey;
+    size: 12px;
+    font-weight: 100;
+    margin-top: 2px;
+}
+
+label {
+    display: block;
+}
+
+.sinBlock {
+    display: inline;
+    padding-top: 5px;
+    margin-top: 10px;
+}
+
+.cajita1 {
+    width: 30%;
+}
+
+.cajita1 input {
+    width: 92%;
+}
